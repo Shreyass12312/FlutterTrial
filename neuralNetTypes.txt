@@ -5,3 +5,6 @@ Recurrent Neural Net
 Architectures :
 Encoder - Decoder with Attention
 Transformer
+
+What's New:
+Adversarial Attacks
